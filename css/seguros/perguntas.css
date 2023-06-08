@@ -51,11 +51,11 @@
   transform: rotate(180deg);
 }
 
-.js .perguntas dd.ativa {
+.perguntas dd.ativa {
   display: block;
 }
 
-.js .perguntas dd {
+.perguntas dd {
   display: none;
   padding-left: 20px;
   padding-top: 16px;
